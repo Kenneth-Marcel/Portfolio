@@ -4,11 +4,9 @@ Welcome to my portfolio :
 
 The Impact of Motherhood: For this project I explore a dataset to find out what effect being a mother has on an individuals wage. 
           
+          Part I:      
          
-    REQIURED PACKAGES FOR THIS PROJECT: 
-    *
-    *
-    *
+    REQIURED PACKAGES FOR THIS PROJECT: matplotlib, NumPy, Seaborn, Pandas.
 
 
 * project 2: gere ui did blua satim platin yatin matin fasin hasin wasin casin pon vasin
