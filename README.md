@@ -1,8 +1,16 @@
 # Portfolio
 
-Welcome to my portfolio blah blah blag :
+Welcome to my portfolio :
 
-* project 1: gere ui did blua satim platin yatin matin fasin hasin wasin casin pon vasin
+The Impact of Motherhood: For this project I explore a dataset to find out what effect being a mother has on an individuals wage. 
+          
+         
+    REQIURED PACKAGES FOR THIS PROJECT: 
+    *
+    *
+    *
+
+
 * project 2: gere ui did blua satim platin yatin matin fasin hasin wasin casin pon vasin
 * project 3: gere ui did blua satim platin yatin matin fasin hasin wasin casin pon vasin
 
